@@ -16,4 +16,4 @@ Program açıldığında, kullanacağı musteriler.db dosyasını programın bul
    - Genel ayarlar panelinden program adı değiştirme, 220x100 logo ekleme
    - Görünüm panelinden programda kullanılan bütün renklere erişebilme
    - Veritabanı yedekleme/geri yükleme
-   - Varsa Excel'den müşteri aktarımı
+   - (Eğer yedeğiniz var ise) Excel'den müşteri aktarımı
