@@ -5,8 +5,6 @@ Son zamanlarda kendi ihtiyaçlarım doğrultusunda ve mevcut kullandığımız p
 
 Program açıldığında, kullanacağı musteriler.db dosyasını programın bulunduğu klasöre oluşturmakta. Hem yaptığım çeşitli geliştirmeleri takip etmek için hem de bir şekilde işine yarayanların kullanımına sunmak için burayı kullanmayı düşünüyorum.
 
-<img width="1202" height="682" alt="image" src="https://github.com/user-attachments/assets/33c4a36c-9dd7-483c-b76a-05a561542d9e" />
-
 ### Şimdilik eklediğim özellikler
 1. Müşteriler paneli
    - Müşteri kaydı ekleme, düzenleme ve silme (ve bunları kısayol tuşları ile yapabilme)
@@ -29,3 +27,12 @@ Program açıldığında, kullanacağı musteriler.db dosyasını programın bul
    - Excel'den müşteri aktarımı
 5. Güncel döviz kuru paneli
    - Merkez bankası verilerini alıyor.
+  
+
+### Programdan görüntüler
+<img width="902" height="512" alt="image" src="https://github.com/user-attachments/assets/3f7e3dc9-bbe6-417e-b282-9c63e17d3d84" />
+
+<img width="902" height="512" alt="image" src="https://github.com/user-attachments/assets/c0c87a8d-689a-4e0b-8bdd-2b65aff64720" />
+
+<img width="902" height="512" alt="image" src="https://github.com/user-attachments/assets/41541137-9312-44ca-835a-ba73ab62415c" />
+
