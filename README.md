@@ -3,7 +3,7 @@
 
 Son zamanlarda kendi ihtiyaçlarım doğrultusunda ve mevcut kullandığımız programın hem eskiliğinden olsun hem de yetersizliğinden olsun boş vakitlerimde ChatGPT, Grok ve Gemini yapay zekalarının da yardımıyla bir teknik servis müşteri takip programı geliştirdim. 
 
-Program açıldığında, kullanacağı musteriler.db dosyasını programın bulunduğu klasöre oluşturmakta. Hem yaptığım çeşitli geliştirmeleri takip etmek için hem de bir şekilde işine yarayanların kullanımına sunmak için burayı kullanmayı düşünüyorum.
+Program açıldığında, kullanacağı musteriler.db dosyasını programın bulunduğu klasöre oluşturmakta. Demo olduğu için toplamda 10 müşteri ve 10 servis kaydı oluşturulabiliyor.
 
 ### Şimdilik eklediğim özellikler
 1. Müşteriler paneli
