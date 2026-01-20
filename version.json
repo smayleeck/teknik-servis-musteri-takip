@@ -1,9 +1,0 @@
-{
-    "version": "2.1.0",
-    "release_date": "2026-01-20",
-    "download_url": "https://github.com/smayleeck/teknik-servis-musteri-takip/releases/download/v2.1.0/teknikservis.exe",
-    "changelog": ["Yeni özellik 1", "Hata düzeltmesi"],
-    "mandatory": false,
-    "min_version": "1.0.0",
-    "file_size": 0
-}
