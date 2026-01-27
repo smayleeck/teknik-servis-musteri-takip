@@ -3,7 +3,7 @@
 
 Son zamanlarda kendi ihtiyaçlarım doğrultusunda ve mevcut kullandığımız programın hem eskiliğinden olsun hem de yetersizliğinden olsun boş vakitlerimde ChatGPT, Grok, Gemini ve özellikle Antigravity yapay zekalarının da yardımıyla bir teknik servis müşteri takip programı geliştirdim. 
 
-Program açıldığında, kullanacağı musteriler.db dosyasını programın bulunduğu klasöre oluşturmakta. Demo olduğu için toplamda 10 müşteri ve 10 servis kaydı oluşturulabiliyor.
+Program açıldığında, kullanacağı dosyalar TSMTP klasörünün içine oluşturulmakta. Demo olduğu için toplamda 10 müşteri, 10 servis kaydı ve 10 ürün kaydı oluşturulabiliyor.
 
 ### Şimdilik eklediğim özellikler
 1. Müşteriler paneli
